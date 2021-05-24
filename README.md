@@ -1,6 +1,7 @@
 
 ![](https://github.com/Znaffca/Znaffca/blob/main/content/banner.png)
 =======
+<a href="https://github.com/Znaffca" style="text-align:center"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 ### Hi all 👋 Good to so see you here!
 
 <!--
