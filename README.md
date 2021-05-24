@@ -1,5 +1,5 @@
 
-![](https://github.com/user/banner.png)
+![](https://github.com/Znaffca/Znaffca/blob/main/content/banner.png)
 =======
 ### Hi all 👋 Good to so see you here!
 
