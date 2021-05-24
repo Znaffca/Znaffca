@@ -1,7 +1,8 @@
 
 ![](https://github.com/Znaffca/Znaffca/blob/main/content/banner.png)
-=======
-<a href="https://github.com/Znaffca" style="text-align:center"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<hr>
+<p align="center"><a href="https://github.com/Znaffca"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.facebook.com/profile.php?id=100002238810501"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/grzegorz-sa%C5%82aci%C5%84ski-05677917a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:salacinski.grzegorz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+
 ### Hi all 👋 Good to so see you here!
 
 <!--
