@@ -5,7 +5,18 @@
 
 ### <p align="center">Hi all 👋 Good to so see you here!</p>
 
-<p>I </p
+I am a tooling engineeer aspirating to become a full stack python developer 💯💯💯💯
+Currently learning everything related to python (web frameworks mostly) and React 😏
+
+#### My goals on 2021
+- [ ] Understand usage of React/React Native/Redux in React/Python project
+- [ ] Create my own blog platform based on django and React
+- [ ] complete a chat module (in Flask)
+
+
+# Languages which I'm using:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+
 
 #### :zap: My recent activity
 
