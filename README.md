@@ -8,6 +8,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Znaffca/blog-with-docker/pull/1) in [Znaffca/blog-with-docker](https://github.com/Znaffca/blog-with-docker)
+2. 💪 Opened PR [#1](https://github.com/Znaffca/blog-with-docker/pull/1) in [Znaffca/blog-with-docker](https://github.com/Znaffca/blog-with-docker)
 <!--END_SECTION:activity-->
 
 <!--
