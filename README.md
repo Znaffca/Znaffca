@@ -22,10 +22,6 @@ Currently learning everything related to python (web frameworks mostly) and Reac
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />   <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
 
 ### Currently pinned repositories:
-[![Readme Card](https://github-readme-stats-znaffca.vercel.app/api/pin/?username=znaffca&repo=Znaffca)](https://github.com/Znaffca/Znaffca)
-[![Readme Card](https://github-readme-stats-znaffca.vercel.app/api/pin/?username=znaffca&repo=blog-with-docker)](https://github.com/Znaffca/blog-with-docker)
-[![Readme Card](https://github-readme-stats-znaffca.vercel.app/api/pin/?username=znaffca&repo=creating_projects)](https://github.com/Znaffca/creating_projects)
-[![Readme Card](https://github-readme-stats-znaffca.vercel.app/api/pin/?username=znaffca&repo=rest_hits)](https://github.com/Znaffca/rest_hits)
 
 
 ### :zap: My recent activity
