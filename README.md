@@ -12,6 +12,10 @@
 2. 💪 Opened PR [#1](https://github.com/Znaffca/blog-with-docker/pull/1) in [Znaffca/blog-with-docker](https://github.com/Znaffca/blog-with-docker)
 <!--END_SECTION:activity-->
 
+#### :zap: My actual stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **Znaffca/Znaffca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
