@@ -5,7 +5,7 @@
 
 ### Hi all 👋 Good to so see you here!
 
-### :zap: Recent Activity
+#### :zap: My recent activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Znaffca/blog-with-docker/pull/1) in [Znaffca/blog-with-docker](https://github.com/Znaffca/blog-with-docker)
