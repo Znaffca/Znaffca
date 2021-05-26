@@ -30,8 +30,8 @@ Currently learning everything related to python (web frameworks mostly) and Reac
 ### :zap: My recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Znaffca/blog-with-docker/pull/1) in [Znaffca/blog-with-docker](https://github.com/Znaffca/blog-with-docker)
-2. 💪 Opened PR [#1](https://github.com/Znaffca/blog-with-docker/pull/1) in [Znaffca/blog-with-docker](https://github.com/Znaffca/blog-with-docker)
+1. 🎉 Merged PR [#1](https://github.com/Znaffca/rest_hits/pull/1) in [Znaffca/rest_hits](https://github.com/Znaffca/rest_hits)
+2. 💪 Opened PR [#1](https://github.com/Znaffca/rest_hits/pull/1) in [Znaffca/rest_hits](https://github.com/Znaffca/rest_hits)
 <!--END_SECTION:activity-->
 
 ### :zap: My actual stats
